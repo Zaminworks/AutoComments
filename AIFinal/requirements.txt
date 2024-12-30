@@ -1,0 +1,8 @@
+streamlit
+google-auth-oauthlib
+google-auth-httplib2
+requests
+pandas
+scikit-learn
+langdetect
+google-api-python-client
